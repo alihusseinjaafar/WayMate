@@ -1,0 +1,1 @@
+services:\n  - type: web\n    name: waymate-api\n

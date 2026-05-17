@@ -1,0 +1,6 @@
+name: waymate_yemen
+dependencies:
+  flutter:
+    sdk: flutter
+  google_maps_flutter: ^2.6.0
+  firebase_messaging: ^14.7.0
